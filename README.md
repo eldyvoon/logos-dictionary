@@ -1,4 +1,5 @@
-# Dictionary Anywhere
-Dictionary extension that helps you stay focused on what you are reading by eliminating the need to search for meaning, Double-clicking any word will view its definition in a small pop-up bubble. Now you never have to leave what you are reading to search meaning for the words you don't know.
+# Chrome extension for logos.com dictionary
 
-Feel free to install extension <a href="https://addons.mozilla.org/en-US/firefox/addon/dictionary-anyvhere/">Dictionary Anywhere</a>, currently available on Mozilla Firefox.
+Logos dictionary is a non-official English dictionary for logos.com readers to quickly find the meaning/definition of a word while reading a book.
+
+most of the codes credit to https://github.com/meetDeveloper/Dictionary-Anywhere
