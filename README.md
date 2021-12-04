@@ -3,3 +3,6 @@
 Logos dictionary is a non-official English dictionary for logos.com readers to quickly find the meaning/definition of a word while reading a book.
 
 most of the codes credit to https://github.com/meetDeveloper/Dictionary-Anywhere
+
+extension link
+https://chrome.google.com/webstore/detail/logos-dictionary/pbeebcfljmpplifcdfbhcgembldhenok
